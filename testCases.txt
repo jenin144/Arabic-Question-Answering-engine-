@@ -1,13 +1,4 @@
 
-run : python app.py
-
-libraries :
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-pip install openpyxl 
-pip install transformers
-pip install nltk
-pip install scikit-learn
-
 test querires:
 هل التهاب طبلة الأذن خطير؟ doc 1
 QA answer :
